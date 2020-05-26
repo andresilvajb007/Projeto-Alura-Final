@@ -1,0 +1,17 @@
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.csprojAssemblyReference.cache
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.AssemblyInfoInputs.cache
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.AssemblyInfo.cs
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.csproj.CoreCompileInputs.cache
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/livros.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.deps.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.runtimeconfig.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.runtimeconfig.dev.json
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.dll
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.pdb
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.dll
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.pdb
+/Users/andresilva/Documents/Projetos/Projeto-Alura-Final/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.genruntimeconfig.cache

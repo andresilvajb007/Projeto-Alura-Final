@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{08711041-163E-4433-B096-A319E778F209}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CasaDoCodigo/appsettings.json">
+    <Files>
+      <File FileName="CasaDoCodigo/Views/Pedido/BuscaDeProdutos.cshtml" Line="30" Column="52" IsPinned="True" />
+      <File FileName="CasaDoCodigo/Controllers/PedidoController.cs" Line="37" Column="62" />
+      <File FileName="CasaDoCodigo/appsettings.json" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CasaDoCodigo" expanded="True">
+            <Node name="CasaDoCodigo" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CasaDoCodigo PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
